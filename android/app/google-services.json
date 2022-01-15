@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496533133501",
+    "project_id": "pillreminder-71405",
+    "storage_bucket": "pillreminder-71405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496533133501:android:3f3bced1d5529a1d55ffd4",
+        "android_client_info": {
+          "package_name": "com.developerzloop.pillreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496533133501-dejb6kk168mnsublrfdf2f4itg7nf8rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARnWLhn4-6oQwTMJCGcSntjUp2cf37vt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496533133501-dejb6kk168mnsublrfdf2f4itg7nf8rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
